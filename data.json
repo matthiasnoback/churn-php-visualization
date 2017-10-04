@@ -1,0 +1,50 @@
+[
+  {
+    "file": "src/User.php",
+    "commits": 366,
+    "complexity": 174,
+    "score": 0.9
+  },
+  {
+    "file": "src/UserController.php",
+    "commits": 174,
+    "complexity": 90,
+    "score": 0.5
+  },
+  {
+    "file": "src/Service.php",
+    "commits": 192,
+    "complexity": 71,
+    "score": 0.5
+  },
+  {
+    "file": "src/Comment.php",
+    "commits": 145,
+    "complexity": 78,
+    "score": 0.5
+  },
+  {
+    "file": "src/FrontController.php",
+    "commits": 186,
+    "complexity": 52,
+    "score": 0.5
+  },
+  {
+    "file": "src/UrlHelper.php",
+    "commits": 139,
+    "complexity": 71,
+    "score": 0.5
+  },
+  {
+    "file": "src/UrlGenerator.php",
+    "commits": 157,
+    "complexity": 61,
+    "score": 0.5
+  },
+  {
+    "file": "src/ServiceContainer.php",
+    "commits": 134,
+    "complexity": 64,
+    "score": 0.5
+  }
+]
